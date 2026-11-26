@@ -1,4 +1,4 @@
-<img src="w/img/index pagina.png" width="auto" height="auto" />
+<img src="aqui tengo que poner un gift" width="auto" height="auto" />
 
 # Multimedial
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
@@ -195,7 +195,7 @@ background-size: cover;
 <!-- Fin del contenido visible -->
 
 ```
-<img scr="w/img/index pagina.png">
+<img src="w/img/index pagina.png" width="auto" height="auto" />
 
 ### Ejercicio extra: insertar imagenes en una página.
 
@@ -364,6 +364,7 @@ background-size: cover;
 </html>
 
 ```
+<img src="w/img/sc obras.png" width="auto" height="auto" />
 
 ##### contacto.html:
 ```html
@@ -404,17 +405,29 @@ background-size: cover;
 - Agregar una transición suave
 
 ##### VISUAL:
+<img src="w/img/ejercicio point.png" width="auto" height="auto" />
+
+<img src="w/img/point sc.png" width="auto" height="auto" />
 
 #### <span style="color: red;"> Ejercicio 2: </span> LSYSTEM
 
 ##### VISUAL:
+<img src="w/img/lsystem.png" width="auto" height="auto" />
+
+<img src="w/img/lsystem sc.png" width="auto" height="auto" />
 
 #### <span style="color: red;"> Ejercicio 3: </span>  MAPPING
 
 ##### VISUAL:
+<img src="w/img/mapping basico.png" width="auto" height="auto" />
+
+<img src="w/img/mappeo sc.png" width="auto" height="auto" />
 
 ### <span style="color: red;"> 3. Experimentacion Proyecto final </span> 
 ##### VISUAL:
+<img src="w/img/proyecto final.png" width="auto" height="auto" />
+
+<img src="w/img/proyecto sc.png" width="auto" height="auto" />
 
 
 
