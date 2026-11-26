@@ -1,4 +1,4 @@
-<img src="w/img/ezgif-326be6c152123d93.gif" width="auto" height="auto" />
+<img src="w/img/rostrosgif-3e0bda7c446124f4.gif" width="auto" height="auto" />
 
 # Multimedial
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
@@ -391,6 +391,7 @@ background-size: cover;
 
 * Pagina Web: [¡Descubre mi pagina web!](https://jake11401.github.io/Multimedial/w/index.html)
 
+<img src="w/img/pointgif-345501b6939b79ba.gif" width="auto" height="auto" />
 
 ##  <span style="color: pink;">UNIDAD II. Programación visual creativa basada en nodos</span> 
 
