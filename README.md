@@ -4,15 +4,15 @@
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
 
 ### index
-<h2><font color="white">Unidad I. <a href="#unidad-i--hipervicunlo-" style="color: red;">Hipervínculo</a></font></h2><br>
-1. EJERCICIO 1, SEMANA 1<br> 
+<h2><font color="white">Unidad I. <a href="#unidad-i--hiperviculo-" >Hipervínculo</a></font></h2><br>
+1. EJERCICIO 1, SEMANA 1 <br> 
 2. MI PRIMERA PAGINA WEB <br> 
 3. LINKS DE PAGINA WEB <br> 
 
 
 
 
-## Unidad II. <a href="#programación-visual-creativa-basada-en-nodos" style="color: red;">Programación visual creativa basada en nodos</a> <br>
+## Unidad II. <a href="#programación-visual-creativa-basada-en-nodos" style=";">Programación visual creativa basada en nodos</a> <br>
 1. INTRO TOUCH DESIGNER <br>
 2. EJERCICIOS <br>
 3. EXPERIMENTACION PROYECTO FINAL <br>
@@ -20,7 +20,7 @@
 
 
 ## <span style="color: pink;">Unidad I. Hipervicunlo</span> 
-#### 1. Ejercicio 1 semana 1:
+## <span style="color: red;">1. Ejercicio 1 semana 1:</span>
 ``` html
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -92,7 +92,7 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 ```
 
-## 2. Mi primera pagina web
+## <span style="color: red;">2. Mi primera pagina web:</span>
 #### Index:
 ```html
 <!DOCTYPE html>
@@ -195,7 +195,7 @@ background-size: cover;
 <!-- Fin del contenido visible -->
 
 ```
-<img scr="w/img/index pagina.png" width="300">
+<img scr="w/img/index pagina.png">
 
 ### Ejercicio extra: insertar imagenes en una página.
 
@@ -204,7 +204,7 @@ background-size: cover;
 <img src="imagen.jpg" alt="descripción">
 ```
 
-## 3. links de pagina web
+## <span style="color: red;">3. links de pagina web  </span>
 Objetivo: pensar en estructura + narrativa.
 
 
@@ -388,14 +388,14 @@ background-size: cover;
 </html>
 ```
 
-* Pagina Web: https://jake11401.github.io/Multimedial/w/index.html
+* Pagina Web: [¡Descubre mi pagina web!](https://jake11401.github.io/Multimedial/w/index.html)
 
 
-## UNIDAD II. Programación visual creativa basada en nodos
+##  <span style="color: pink;">UNIDAD II. Programación visual creativa basada en nodos</span> 
 
-### Intro Touch Designer
-#### Objetivo general
-#### Ejercicio 1: POINT (interacción)
+###  <span style="color: red;"> 1. Intro Touch Designer </span>
+
+#### <span style="color: red;"> Ejercicio 1: </span> POINT (interacción)
 ##### Objetivo: Que los elementos reaccionen al mouse
 
 ##### Instrucciones:
@@ -405,15 +405,15 @@ background-size: cover;
 
 ##### VISUAL:
 
-#### Ejercicio 2: LSYSTEM
+#### <span style="color: red;"> Ejercicio 2: </span> LSYSTEM
 
 ##### VISUAL:
 
-#### Ejercicio 3: MAPPING
+#### <span style="color: red;"> Ejercicio 3: </span>  MAPPING
 
 ##### VISUAL:
 
-### Experimentacion Proyecto final
+### <span style="color: red;"> 3. Experimentacion Proyecto final </span> 
 ##### VISUAL:
 
 
