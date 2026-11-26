@@ -195,6 +195,7 @@ background-size: cover;
 <!-- Fin del contenido visible -->
 
 ```
+<img scr="w/img/index pagina.png">
 
 ### Ejercicio extra: insertar imagenes en una página.
 
