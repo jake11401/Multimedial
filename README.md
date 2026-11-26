@@ -195,7 +195,7 @@ background-size: cover;
 <!-- Fin del contenido visible -->
 
 ```
-<img scr="https://raw.githubusercontent.com/jake11401/Multimedial/refs/heads/main/w/img/index%20pagina.png">
+(w/img/index pagina.png)
 
 ### Ejercicio extra: insertar imagenes en una página.
 
