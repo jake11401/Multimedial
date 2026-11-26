@@ -1,4 +1,4 @@
-<img src="w/img/giphy.gif" width="auto" height="auto" />
+<img src="w/img/ezgif-326be6c152123d93.gif" width="auto" height="auto" />
 
 # Multimedial
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
