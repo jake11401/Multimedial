@@ -1,4 +1,4 @@
-<img src="aqui tengo que poner un gift" width="auto" height="auto" />
+<img src="w/img/index pagina.png" width="auto" height="auto" />
 
 # Multimedial
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
